@@ -31,7 +31,8 @@ O site está publicado e acessível online via GitHub Pages:
 ##Contato
 
 Email: joao.lucas.santana195@gmail.com
-linkedIn: [Joao Lucas](https://www.linkedin.com/in/devjoaolucas515/)
+linkedIn: [Joao Lucas]([https://www.linkedin.com/in/devjoaolucas515/](https://joaolucassantana195-lab.github.io/Landing-Page-Barbearia/
+)
 GitHub: [joaolucassantana195-lab](https://github.com/joaolucassantana195-lab/Landing-Page-Barbearia)
 
 
