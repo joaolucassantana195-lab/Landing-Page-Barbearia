@@ -104,12 +104,9 @@ nav {
 .href:hover::after{
     width: 100%;
 }
-main{
-    
-}
 
-.inicio{
-    background-image: url(barbearia.png);
+.inicio {
+    background-image: url(imgs/barbearia.png);
     background-color: rgb(22, 12, 0);
     background-position: 25%;
     background-size: cover;
@@ -118,7 +115,6 @@ main{
     font-family: system-ui;
     width: 100%;
     min-height: 100vh;
-    max-height: auto;
     justify-content: center;
 }
 .content-inicio{
@@ -288,7 +284,7 @@ main{
 }
 
 .produto {
-    background-image: url(corte.jpg);
+    background-image: url(imgs/corte.jpg);
     background-position: 80%;
     background-size: cover;
     min-height: 100vh;
@@ -306,7 +302,7 @@ ul{
     padding: 50px;
     margin: 50px;
     width: auto;
-    list-style-image: url(verificado.png) ;
+    list-style-image: url(imgs/verificado.png) ;
     list-style-position: inside;
     font-size: 30px;
     font-weight: 900;
